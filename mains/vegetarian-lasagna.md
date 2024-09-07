@@ -1,5 +1,5 @@
 # Vegetarian lasagna recipe
-
+Made changes wrong sppplings.
 
 ## Ingredients
 
